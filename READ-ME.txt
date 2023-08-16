@@ -1,0 +1,12 @@
+ProyectoFinalCoderhouse
+
+Nombre del Proyecto: TEAblog
+
+   Sobre el Código: TEAblog, es una aplicación donde podras conocer todo sobre el TEA y a traves de los botones LEER MÁS que estan ubicados en la cabecera de la página, podras encontrar la información completa sobre cada uno de los temas.
+
+ Link de Busqueda:  http://127.0.0.1:8000   
+
+Link admin :http://127.0.0.1:8000/admin/  debe ingresar con Nombre de Usuario (admin), Contraseña(admin) Desde aqui podras verificar que los datos se hayan cargado de manera correcta,Usuarios registrados,modificar y agregar Post al Blog en las distaintas categorias.
+
+
+
